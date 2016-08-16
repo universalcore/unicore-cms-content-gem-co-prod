@@ -1,17 +1,17 @@
 {
-  "subtitle": "Puedes tener un buen curr\u00edculum \u2013 incluso si nunca tuviste un empleo", 
-  "description": "", 
+  "subtitle": "", 
+  "description": "Puedes tener un buen curr\u00edculum \u2013 incluso si nunca tuviste un empleo", 
   "language": "spa_CO", 
   "title": "Prepara un buen curr\u00edculum", 
   "primary_category": "a27e8d5552bd40d78d84d949b7d750cb", 
   "created_at": "2016-07-10T21:48:34+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-07-22T00:22:32.888633+00:00", 
+  "modified_at": "2016-08-16T11:14:47.591177+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 14, 
+  "position": 15, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "prepara-un-buen-curriculum", 
   "uuid": "4c10abc5ff6b43cbaff1d49b4b0338f1"
