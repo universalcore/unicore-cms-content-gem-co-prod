@@ -6,12 +6,12 @@
   "primary_category": "3a9ec7e44376487dae852de2e4dc9ee7", 
   "created_at": "2015-07-23T20:46:00+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-07-23T21:09:46.346498+00:00", 
+  "modified_at": "2016-10-07T12:11:39.774498+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 8, 
+  "position": 17, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "i-have-big-dreams-my-future", 
   "uuid": "03e7231c7fc44af0a2c72d9b9bca8d3c"
