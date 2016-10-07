@@ -6,12 +6,12 @@
   "primary_category": "3a9ec7e44376487dae852de2e4dc9ee7", 
   "created_at": "2015-07-23T21:02:42+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-04-20T19:22:53.773878+00:00", 
+  "modified_at": "2016-10-07T12:11:37.698896+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 56, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "girl-declaration", 
   "uuid": "47f7a78b5e214938ab4ecdda739a83bf"
